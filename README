@@ -1,1 +1,3 @@
-robocup agent2d for student's league
+Robocup agent2d for student's league
+
+Please use the flag CFLAGS='-std=c++03' in configure command, if you are on ubuntu 18
